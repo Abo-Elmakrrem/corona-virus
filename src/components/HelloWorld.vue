@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <h1>this is a home page</h1>
-
   </div>
 </template>
 
@@ -16,6 +15,4 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
-
 </style>

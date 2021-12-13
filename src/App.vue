@@ -14,7 +14,7 @@
             <router-link to="/Symptoms">Symptoms</router-link> |
             <router-link to="/prevention">prevention</router-link> |
             <router-link to="/Treatment">Treatment</router-link> |
-            <router-link to="/Fandq">FAQ</router-link> |
+            <router-link to="/Faq">FAQ</router-link> |
             <router-link to="/News">News</router-link>
           </b-navbar-nav>
         </b-collapse>
